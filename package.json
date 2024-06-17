@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "dead": "^0.0.2",
+    "dead-server": "^1.0.9",
     "server": "^1.0.39"
   }
 }
